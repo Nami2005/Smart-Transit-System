@@ -1,4 +1,5 @@
 SMART TRANSIT SYSTEM
+
 Smart Transit is a full-stack public transport project built for route planning, live tracking, metro schedules, pass management, alerts, and complaint handling. The project uses a React frontend, a FastAPI backend, and Oracle Database with SQL, PL/SQL, views, triggers, procedures, analytics queries, and role-based security examples.
 Features
 
